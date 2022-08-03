@@ -6,8 +6,8 @@ Meu objetivo principal é continuar adquirindo conhecimento (sou novato ainda �
 
 ## 
 
+<h4>
 Linguagens: (Sei um pouquinho de cada hehe 😅😁)
-  
 </h4>
 <div>
     <table>
