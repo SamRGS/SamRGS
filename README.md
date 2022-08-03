@@ -16,25 +16,13 @@ Linguagens: (Sei um pouquinho de cada hehe 😅😁)
                 <img alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
             </td>
             <td>
-                Python
-            </td>
-            <td>
                 <img alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
             </td>
             <td>
-                SQL
-            </td>
-            <td>
-            <img alt="htm5" height="25" width="40" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white.svg" />
-            </td>
-            <td>
-            HTML5
+            <img alt="htm5" height="25" width="55" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white.svg" />
             </td>
             <td>
             <img alt="css3" height="25" widht="40" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white.svg" />
-            </td>
-            <td>
-            CSS 3
             </td>
               </table>
 </div>
@@ -73,7 +61,6 @@ Linguagens: (Sei um pouquinho de cada hehe 😅😁)
 <h4>Redes Sociais</h4>
 <div>
     <samp>
-        <a href = "mailto:srgomessilva97@gmail.com"><img alt="samuel-mailto" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
         <a href="https://www.linkedin.com/in/samuel-renê-5235ab241/" target="_blank"><img alt="samuel-lk" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
         <a href="https://twitter.com/_poxasamu" target="_blank"><img alt="samuel-tw" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" ></a>
     </samp>
