@@ -6,7 +6,7 @@ Meu objetivo principal é continuar adquirindo conhecimento (sou novato ainda �
 
 ## 
 
-Linguagens: 
+Linguagens: (Sei um pouquinho de cada hehe 😅😁)
   
 </h4>
 <div>
