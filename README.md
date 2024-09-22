@@ -24,10 +24,6 @@ Linguagens:
             </td>
               </table>
 </div>
-
-<h4>
-    Ferramentas:
-</h4>
 <h4>
     Databases:
 </h4>
