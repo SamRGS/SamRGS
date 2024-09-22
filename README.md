@@ -1,11 +1,11 @@
-## Olá, eu sou Samuel! 😎
+## Hello everyone, I'm Samuel.  😎
 
-Estudante de desenvolvimento de sistemas. 
+Development System Student. 
 
 ## 
 
 <h4>
-Linguagens:
+Stacks:
 </h4>
 <div>
     <table>
