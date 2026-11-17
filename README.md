@@ -1,6 +1,6 @@
 ## Hello everyone, I'm Samuel.  😎
 
-Development System Student. 
+Analisa de dados. 
 
 ## 
 
@@ -17,11 +17,6 @@ Stacks:
                 <img alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
             </td>
             <td>
-            <img alt="htm5" height="25" width="55" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white.svg" />
-            </td>
-            <td>
-            <img alt="css3" height="25" widht="40" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white.svg" />
-            </td>
               </table>
 </div>
 <h4>
