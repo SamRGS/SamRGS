@@ -1,6 +1,6 @@
 ## Hello everyone, I'm Samuel.  😎
 
-Analisa de dados. 
+Analista de dados. 
 
 ## 
 
@@ -16,7 +16,6 @@ Stacks:
             <td>
                 <img alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
             </td>
-            <td>
               </table>
 </div>
 <h4>
